@@ -1,8 +1,0 @@
-# Define Jupyter Notebook files
-*.ipynb linguist-detectable=true
-*.ipynb linguist-language=Jupyter Notebook
-*.ipynb text
-
-# Define Power BI files
-*.pbix linguist-detectable=true
-*.pbix text
